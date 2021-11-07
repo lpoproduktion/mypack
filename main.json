@@ -1,0 +1,23 @@
+{
+  "id": "863d3118-dee7-4002-a45f-464ae71e3322",
+  "title": "Package Boilerplate",
+  "description": "A starting point for your first module package.",
+  "author": "Your Name",
+  "repository": "https://github.com/username/repo.git",
+  "modules": [
+    {
+      "id": "c41c1553-1ef4-4cf8-820e-df861aefd675",
+      "name": "module-1",
+      "title": "My first module",
+      "description": "A starting point for your first module.",
+      "icon": "fa-code",
+      "version": "1.0.0",
+      "versionRequired": "0.2.900",
+      "status": "online",
+      "url": "https://google.com",
+      "width": 1280,
+      "height": 720,
+      "userAgent": ""
+    }
+  ]
+}
